@@ -1,14 +1,25 @@
-GetNewFactIntent a fact
-GetNewFactIntent a space fact
-GetNewFactIntent tell me a fact
-GetNewFactIntent tell me a space fact
+GetNewFactIntent next
+GetNewFactIntent next woman
+GetNewFactIntent tell me about another woman
+GetNewFactIntent give me another woman
+GetNewFactIntent tell me about a woman
+GetNewFactIntent tell me about a woman in Stem
+GetNewFactIntent tell me about a woman of Stem
+GetNewFactIntent give me about a woman in Stem
+GetNewFactIntent give me about a woman of Stem
+GetNewFactIntent tell me about another
+GetNewFactIntent give me another
+GetNewFactIntent tell me a new person
+GetNewFactIntent give me a new person
+GetNewFactIntent give me a new one
+GetNewFactIntent tell me a new one
+GetNewFactIntent give me a the next one
+GetNewFactIntent tell me a the next one
+GetNewFactIntent tell me about a new person
 GetNewFactIntent give me a fact
-GetNewFactIntent give me a space fact
-GetNewFactIntent tell me trivia
-GetNewFactIntent tell me a space trivia
-GetNewFactIntent give me trivia
-GetNewFactIntent give me a space trivia
+GetNewFactIntent give me a new fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a new fact
 GetNewFactIntent give me some information
-GetNewFactIntent give me some space information
 GetNewFactIntent tell me something
 GetNewFactIntent give me something
